@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://gevans.github.io/ga/blog/2013/10/02/fixing-rubygems-ssl-issues-certificate-verify-failed/
+        </loc>
+        <lastmod>2013-10-02T14:49:42-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gevans.github.io/ga/blog/archives/</loc>
+        <lastmod>2013-10-02T14:49:42-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gevans.github.io/ga/</loc>
+        <lastmod>2013-10-02T14:49:42-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gevans.github.io/ga/robots.txt</loc>
+        <lastmod>2013-10-02T13:48:51-07:00</lastmod>
+    </url>
+</urlset>
