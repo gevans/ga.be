@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Gabe Evans]]></title>
-  <link href="http://gevans.github.io/ga/atom.xml" rel="self"/>
-  <link href="http://gevans.github.io/ga/"/>
-  <updated>2013-10-02T14:58:48-07:00</updated>
-  <id>http://gevans.github.io/ga/</id>
+  <link href="http://ga.be/atom.xml" rel="self"/>
+  <link href="http://ga.be/"/>
+  <updated>2013-10-02T16:23:09-07:00</updated>
+  <id>http://ga.be/</id>
   <author>
     <name><![CDATA[Gabe Evans]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fixing RubyGems SSL Issues (Certificate Verify Failed)]]></title>
-    <link href="http://gevans.github.io/ga/blog/2013/10/02/fixing-rubygems-ssl-issues-certificate-verify-failed/"/>
+    <link href="http://ga.be/blog/2013/10/02/fixing-rubygems-ssl-issues-certificate-verify-failed/"/>
     <updated>2013-10-02T13:58:00-07:00</updated>
-    <id>http://gevans.github.io/ga/blog/2013/10/02/fixing-rubygems-ssl-issues-certificate-verify-failed</id>
+    <id>http://ga.be/blog/2013/10/02/fixing-rubygems-ssl-issues-certificate-verify-failed</id>
     <content type="html"><![CDATA[<p>Can you guess what took a significant portion of my time debugging this
 afternoon? I was going about my usual business, cloning a new project and
 bundling when I encountered this deliciously vague error:</p>

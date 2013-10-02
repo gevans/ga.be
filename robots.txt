@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://gevans.github.io/ga/sitemap.xml 
+Sitemap: http://ga.be/sitemap.xml 
