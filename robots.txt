@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://ga.be/sitemap.xml 
+User-agent: * Disallow:Sitemap: http://ga.be/sitemap.xml
